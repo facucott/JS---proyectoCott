@@ -1,0 +1,1 @@
+Sumé HTML y CSS a mi proyecto: página del e-shop, imagenes de cada uno de los productos, el logo del carrito, los botones de compra y la descripción de cada uno de ellos. En el footer hay acceso a redes sociales, y en el nav de la página hay pestañas a modo ilustrativo (es decir, los links no llevan a ninguna parte porque solo presenté la página del shop, como fue pedido).
